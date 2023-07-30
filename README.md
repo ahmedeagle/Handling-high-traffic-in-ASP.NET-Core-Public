@@ -22,10 +22,10 @@ The following are tools and techniques that will help you handle high traffic in
 3- Asynchronous Programming: Asynchronous programming runs multiple tasks concurrently, allowing the application to handle more requests and improve performance.
 
 Tools & Techniques:
-  Task Parallel Library (TPL) [https://hub.packtpub.com/task-parallel-library-multi-threading-net-core/]
-  async/await [https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios]
-  Reactive Extensions (Rx) [https://dotnetcorecentral.com/blog/reactive-extensions-in-net-core/]
-  Actor Model [https://samueleresca.net/developing-apis-using-actor-model-in-asp-net/]
+  - Task Parallel Library (TPL) [https://hub.packtpub.com/task-parallel-library-multi-threading-net-core/]
+  - async/await [https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios]
+  - Reactive Extensions (Rx) [https://dotnetcorecentral.com/blog/reactive-extensions-in-net-core/]
+  - Actor Model [https://samueleresca.net/developing-apis-using-actor-model-in-asp-net/]
 
 4- Message Queues: Message queues decouple tasks and process them asynchronously, improving application performance and scalability during traffic spikes.
 
