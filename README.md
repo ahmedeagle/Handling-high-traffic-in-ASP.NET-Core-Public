@@ -7,9 +7,13 @@ The following are tools and techniques that will help you handle high traffic in
 
   Tools & Techniques:
     - Redis [https://www.c-sharpcorner.com/article/implementation-of-the-redis-cache-in-the-net-core-api/]
+    
     - Memcached [https://dotnetcorecentral.com/blog/using-memcached-as-distributed-cache-in-net-core/]
+    
     - ASP.NET Core Response Caching Middleware [https://learn.microsoft.com/en-us/aspnet/core/performance/caching/middleware?view=aspnetcore-7.0]
+    
     - In-Memory Cache [https://learn.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-7.0]
+    
 
 2- Load Balancing: Load balancing distributes incoming network traffic across multiple servers to improve application performance and availability.
 
